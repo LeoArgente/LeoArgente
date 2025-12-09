@@ -31,11 +31,11 @@ I'm a second-semester student at **CESAR School** with a strong interest in **Ar
 
 <div align="center">
 
-![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoArgente&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=LeoArgente&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Leonardo's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoArgente&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoArgente&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeoArgente&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoArgente&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 
 </div>
 
